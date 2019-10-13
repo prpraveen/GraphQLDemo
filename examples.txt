@@ -1,0 +1,23 @@
+query {
+ test
+}
+
+query {
+  student {
+    id
+    email
+  }
+}
+
+query {
+  studentById(id : "S1001") {
+    id
+    email,
+    fullName,
+    collegeId,
+    college {
+      id,
+      location
+    }
+  }
+}

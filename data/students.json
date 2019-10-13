@@ -1,0 +1,32 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Rohit",
+    "lastName": "Varma",
+    "email": "rohit.verma@nodomain.com",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "email": "rakesh.j@nodomain.com",
+    "firstName": "Rakesh",
+    "lastName": "J",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1003",
+    "email": "sumit.v@nodomain.com",
+    "firstName": "Sumit",
+    "lastName": "V",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S10bhNyFH",
+    "collegeId": "col-101",
+    "firstName": "Harish",
+    "lastName": "Srinivas"
+  }
+]
